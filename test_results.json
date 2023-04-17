@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+       "name" : "DemoBSpec/suiteB/1",
+       "status" : "Success",
+       "durationMillis" : "2264",
+       "annotations" : "tagged: \"Critical\", \"slow\"",
+       "fullyQualifiedClassName" : "DemoBSpec",
+       "labels" : ["suiteB", "1"]
+    },
+    {
+       "name" : "DemoASpec/suiteA/1",
+       "status" : "Success",
+       "durationMillis" : "54",
+       "annotations" : "tagged: \"Critical\", \"Fast\"",
+       "fullyQualifiedClassName" : "DemoASpec",
+       "labels" : ["suiteA", "1"]
+    }
+
+  ]
+}
